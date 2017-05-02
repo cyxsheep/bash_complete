@@ -1,0 +1,7 @@
+##  Place files at follow folders:
+
+git: /etc/bash_completion.d/
+
+bash_completion: /etc
+
+bash_completion.sh /etc/profile.d
